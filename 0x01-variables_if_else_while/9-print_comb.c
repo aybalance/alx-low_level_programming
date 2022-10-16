@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main-entry point
  * Return: Success
  */
 
@@ -19,4 +19,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-
+}
