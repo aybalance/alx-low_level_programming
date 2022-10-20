@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _islower - checks if c is alphabetic
+ * _isalha - checks if c is alphabetic
  * @c: the charachter to compare
  * Return: if the character is alpha or not
  */
