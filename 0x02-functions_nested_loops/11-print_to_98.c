@@ -28,6 +28,7 @@ void print_to_98(int n)
  * print - prints a number
  * @n: The number
  */
+
 void print(int n)
 {
 	int i;
