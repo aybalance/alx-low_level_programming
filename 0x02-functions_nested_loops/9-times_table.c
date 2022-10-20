@@ -3,7 +3,7 @@
  * times_table - prints the time table
  * Return: The time table
  */
-int main(void)
+void times_table(void)
 {
 	int i, j;
 
